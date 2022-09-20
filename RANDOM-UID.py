@@ -250,7 +250,7 @@ def R():
 
 			print(logo)
 			def xyz():
-    os.system(" WELCOME_TO_RAKIB_RANDOM_CLONE_TOOL.")
+    os.system(" WELCOME_TO_RANDOM_CLONE_TOOL.")
     os.getuid
     
     os.system("clear");print(logo)
@@ -294,7 +294,7 @@ def password():
     print(f"{RED}[03] {WHITE} 5 PASSWORDS  {GREEN} [ SLOW   🐌]")
     linex()
     print("")
-    passX = input(f" {RED}CHOOSE{𝙰𝙺𝙰𝚂𝙷2} : ")
+    passX = input(f" {RED}CHOOSE{RAKIB2} : ")
     if passX in ['1','01']:
         os.system("xdg-open https://www.facebook.com/owner.termux")
         password1()
