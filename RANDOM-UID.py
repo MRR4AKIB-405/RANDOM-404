@@ -250,7 +250,7 @@ def R():
 
 			print(logo)
 			def xyz():
-    os.system("play-audio WELCOME_TO_𝙰𝙺𝙰𝚂𝙷_RANDOM_CLONE_TOOL.mp3")
+    os.system(" WELCOME_TO_RAKIB_RANDOM_CLONE_TOOL.")
     os.getuid
     
     os.system("clear");print(logo)
@@ -267,17 +267,17 @@ def R():
     print(f"")
     print(f"\033[1;91m========================================================")
     𝙰𝙺𝙰𝚂𝙷 = input("[√] CHOOSE : ")
-    if 𝙰𝙺𝙰𝚂𝙷 in ["1","01"]:
+    if RAKIB in ["1","01"]:
         
         password()
-    elif 𝙰𝙺𝙰𝚂𝙷 in ["2","02"]:
+    elif RAKIB in ["2","02"]:
         Tabii2()
         
-    elif 𝙰𝙺𝙰𝚂𝙷 in ["3","03"]:
+    elif RAKIB in ["3","03"]:
         os.system("xdg-open https://www.facebook.com/owner.termux");xyz()
-    elif 𝙰𝙺𝙰𝚂𝙷 in ["4","04"]:
+    elif RAKIB in ["4","04"]:
         os.system("xdg-open https://wa.me/+8801721474011");xyz()
-    elif 𝙰𝙺𝙰𝚂𝙷 in ["0","00"]:
+    elif RAKIB in ["0","00"]:
        exit()
     else:
         print('\033[1;31mINCORECT OPTION!\033[1;31m')
