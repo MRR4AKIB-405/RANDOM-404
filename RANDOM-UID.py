@@ -250,7 +250,7 @@ def R():
 
 			print(logo)
 			def xyz():
-    os.system(" WELCOME_TO_RANDOM_CLONE_TOOL.")
+				
     os.getuid
     
     os.system("clear");print(logo)
